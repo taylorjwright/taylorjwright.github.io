@@ -5,4 +5,6 @@ permalink: /research/
 sidebar_link: true
 ---
 
-Coming shortly.
+### Working Papers
+[Terrorism, Immigration and Asylum Approval]({{ site.url }}/assets/Brodeur_Wright.pdf)
+with Abel Brodeur
