@@ -7,18 +7,18 @@ title:            Taylor Wright
 tagline:          'Taylor Wright'
 description:      'Economics PhD candidate at uOttawa. I research crime and terrorism. Leafs fan.'
 url:              https://taylorjwright.github.io
-baseurl:          '/blog'
+baseurl:          # '/home'
                   # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
                   # If you want to move just the blog index pages but keep
                   # other pages at root, see the paginate_path and
                   # sidebar_blog_link below.
 
-author:           Taylor Wright
+author:          Taylor Wright
 name:           'Taylor Wright'
 url:            https://twitter.com/taylor_wright
 
-paginate:         3
+paginate:         5
 # paginate_path:    '/page:num'
                     # Or '/blog/page:num' if you want to move your index pages
 
