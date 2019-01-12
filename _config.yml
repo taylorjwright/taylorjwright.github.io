@@ -16,7 +16,6 @@ baseurl:          #'/blog'
 
 author:          Taylor Wright
 name:           'Taylor Wright'
-url:            https://twitter.com/taylor_wright
 
 paginate:         5
 paginate_path:    #'/page:num'
