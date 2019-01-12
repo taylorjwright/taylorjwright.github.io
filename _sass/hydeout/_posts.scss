@@ -33,8 +33,8 @@ article + *, .post-body ~ section {
 }
 
 // h1-size h2
-h2.post-title, h2.page-title {
-  font-size: 2rem;
+h3.post-title, h3.page-title {
+  font-size: 1.5rem;
 }
 
 // Meta data line below post title

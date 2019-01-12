@@ -5,9 +5,9 @@ highlighter:      rouge
 # Setup
 title:            Taylor Wright
 tagline:          'Taylor Wright'
-description:      'Economics PhD candidate at uOttawa. I research crime and terrorism. Leafs fan.'
+description:      'Economics PhD candidate at the University of Ottawa. I research crime and terrorism.'
 url:              https://taylorjwright.github.io
-baseurl:          # '/home'
+baseurl:          #'/blog'
                   # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
                   # If you want to move just the blog index pages but keep
@@ -19,7 +19,7 @@ name:           'Taylor Wright'
 url:            https://twitter.com/taylor_wright
 
 paginate:         5
-# paginate_path:    '/page:num'
+paginate_path:    #'/page:num'
                     # Or '/blog/page:num' if you want to move your index pages
 
 plugins:

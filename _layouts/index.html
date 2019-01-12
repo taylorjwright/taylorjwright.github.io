@@ -15,6 +15,7 @@ layout: default
       </a>
     </h2>
     {% include post-meta.html post=post %}
+    <img src="{{ site.baseurl }}/{{ post.img }}" height="75%" width="75%">
 
     {% if post.excerpt %}
       {{ post.excerpt }}
@@ -32,7 +33,7 @@ layout: default
       {% endcapture %}
 
       {% if content_words != excerpt_words %}
-        <a href="{{ site.baseurl }}{{ post.url }}">More &hellip;</a>
+        <a href="{{ site.baseurl }}{{ post.url }}">Would You Like to Know More&#63;</a>
       {% endif %}
     {% endif %}
   </article>
