@@ -16,6 +16,7 @@ baseurl:          #'/blog'
 
 author:          Taylor Wright
 name:           'Taylor Wright'
+email:          taylor.wright@uottawa.ca
 
 paginate:         5
 paginate_path:    #'/page:num'
