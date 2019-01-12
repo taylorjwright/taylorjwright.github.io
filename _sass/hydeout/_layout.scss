@@ -40,6 +40,9 @@ img{
 #sidebar {
 
   img {
+    border-width: 3px;
+    border-style: solid;
+    border-color: #58A4B0;
     border-radius: 50%;
     display: block;
     margin-left: auto;
@@ -164,6 +167,7 @@ img{
   #sidebar, .home #sidebar {
     width: $sidebar-width;
     text-align: center;
+    letter-spacing: 0.025em;
 
     > *:last-child {
       margin-bottom: 0;
@@ -178,6 +182,7 @@ img{
     }
 
     p.lead, header ~ * {
+      letter-spacing: 0.05em;
       display: block;
     }
 
@@ -240,8 +245,8 @@ img{
   }
 
   &.active {
-    font-weight: bold;
-    color: $gray-6;
+    // font-weight: bold;
+    color: #58A4B0;
   }
 }
 
@@ -255,6 +260,7 @@ img{
 
 #sidebar-nav-links {
   flex-flow: column nowrap;
+  font-size: 0.9rem;
 }
 
 #sidebar-icon-links {
@@ -272,6 +278,7 @@ img{
 #sidebar nav > * {
   display: block;
   line-height: 1.75;
+  letter-spacing: 0.075em;
 }
 
 #sidebar nav > .icon {
