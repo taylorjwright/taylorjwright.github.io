@@ -48,6 +48,7 @@ img{
     margin-right: auto;
   }
 
+
   flex: 0 0 auto;
   padding: $section-spacing;
 
@@ -57,7 +58,6 @@ img{
     font-size: $large-font-size;
     margin-top: 0;
     margin-bottom: $heading-spacing;
-
     .back-arrow { margin-right: 0.5rem; }
   }
 }
