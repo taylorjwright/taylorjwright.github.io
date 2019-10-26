@@ -17,6 +17,7 @@ baseurl:          #'/blog'
 author:          Taylor Wright
 name:           'Taylor Wright'
 email:          taylor.wright@uottawa.ca
+google_analytics: UA-150989928-1
 
 paginate:         5
 paginate_path:    #'/page:num'
