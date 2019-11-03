@@ -36,9 +36,11 @@ img{
   margin-right: auto;
 }
 
-#sidebar {
+#sidebar_thumbnail {
 
-  img {
+}
+
+.thumbnail {
     border-width: 3px;
     border-style: solid;
     border-color: #EF8354;
@@ -46,7 +48,13 @@ img{
     display: block;
     margin-left: auto;
     margin-right: auto;
-  }
+    width: 50%;
+    height: auto;
+    margin-bottom: $heading-spacing;
+
+}
+
+#sidebar {
 
 
   flex: 0 0 auto;
@@ -221,6 +229,11 @@ img{
       padding: 0;
     }
   }
+}
+
+.thumbnail {
+    width: 60%;
+    margin-bottom: $heading-spacing;
 }
 
 

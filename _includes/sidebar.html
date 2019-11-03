@@ -1,5 +1,9 @@
 <div id="sidebar">
-  <img src="/assets/avatar.jpg">
+  <div id="sidebar_thumbnail">
+  <div id="sidebar_img">
+  <img src="/assets/avatar.jpg" class="thumbnail">
+  </div>
+  </div>
   <header>
     <{% if page.layout == "index" %}h1{% else %}div{% endif %} class="site-title">
       <a href="{{ site.baseurl }}/">
