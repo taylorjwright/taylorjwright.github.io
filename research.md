@@ -11,3 +11,6 @@ sidebar_sort_order: 2
 2019\. Journal of Economic Behavior & Organization, December, 168:119-131.  
 [Preprint]({{ site.url }}/assets/Brodeur_Wright.pdf)  
 [IZA Discussion Paper](http://ftp.iza.org/dp12635.pdf)  
+
+### Works in Progress
+"Does Conflict Fuel Racial Prejudice? Evidence from the Iraq War" (with [Abel Brodeur](https://sites.google.com/site/abelbrodeur/home) and [Ruben Durante](https://www.rubendurante.net/))
