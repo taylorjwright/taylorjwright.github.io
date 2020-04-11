@@ -16,4 +16,4 @@ sidebar_sort_order: 2
 "Does Conflict Fuel Racial Prejudice? Evidence from the Iraq War" (with [Abel Brodeur](https://sites.google.com/site/abelbrodeur/home) and [Ruben Durante](https://www.rubendurante.net/))
 
 "The Short-Term Effect of COVID-19 on Employment and Wages" (with with [Abel Brodeur](https://sites.google.com/site/abelbrodeur/home) and [LP Beland](https://www.lpbeland.com/))
-[Pre-Analysis Plan] (https://osf.io/c28t5/)
+[Pre-Analysis Plan](https://osf.io/c28t5/)
