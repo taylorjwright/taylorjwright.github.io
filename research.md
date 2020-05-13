@@ -22,6 +22,6 @@ sidebar_sort_order: 2
 "On the Effects of COVID-19 Safer-At-Home Policies on Social Distancing, Car Crashes and Pollution" (with with [Abel Brodeur](https://sites.google.com/site/abelbrodeur/home) and [Nikolai Cook](https://sites.google.com/site/nikolaimcook/))  
 [IZA Discussion Paper](http://ftp.iza.org/dp13255.pdf)  
 
-"The Short-Term Economic Consequences of COVID-19: Occupation Tasks and Mental Health in Canada" with [Abel Brodeur,](https://sites.google.com/site/abelbrodeur/home) [LP Beland,](https://www.lpbeland.com/)) and Derek Mikola.  
+"The Short-Term Economic Consequences of COVID-19: Occupation Tasks and Mental Health in Canada" (with [Abel Brodeur](https://sites.google.com/site/abelbrodeur/home), [LP Beland](https://www.lpbeland.com/), and Derek Mikola)  
 [Pre-Analysis Plans](https://osf.io/7gujs/)  
 [IZA Discussion Paper](http://ftp.iza.org/dp13254.pdf)  
