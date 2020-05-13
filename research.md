@@ -13,8 +13,15 @@ sidebar_sort_order: 2
 [IZA Discussion Paper](http://ftp.iza.org/dp12635.pdf)  
 
 ### Works in Progress
-"Does Conflict Fuel Racial Prejudice? Evidence from the Iraq War" (with [Abel Brodeur](https://sites.google.com/site/abelbrodeur/home) and [Ruben Durante](https://www.rubendurante.net/))
+"Does Conflict Fuel Racial Prejudice? Evidence from the Iraq War" (with [Abel Brodeur](https://sites.google.com/site/abelbrodeur/home) and [Ruben Durante](https://www.rubendurante.net/))  
 
-"The Short-Term Effect of COVID-19 on Employment and Wages" (with with [Abel Brodeur](https://sites.google.com/site/abelbrodeur/home) and [LP Beland](https://www.lpbeland.com/))  
-[Pre-Analysis Plan](https://osf.io/c28t5/)  
+"The Short-Term Effect of COVID-19 on Employment and Wages" (with [Abel Brodeur](https://sites.google.com/site/abelbrodeur/home) and [LP Beland](https://www.lpbeland.com/))  
+[Pre-Analysis Plans](https://osf.io/c28t5/)  
 [IZA Discussion Paper](http://ftp.iza.org/dp13159.pdf)  
+
+"On the Effects of COVID-19 Safer-At-Home Policies on Social Distancing, Car Crashes and Pollution" (with with [Abel Brodeur](https://sites.google.com/site/abelbrodeur/home) and [Nikolai Cook](https://sites.google.com/site/nikolaimcook/))  
+[IZA Discussion Paper](http://ftp.iza.org/dp13255.pdf)  
+
+"The Short-Term Economic Consequences of COVID-19: Occupation Tasks and Mental Health in Canada" with [Abel Brodeur,](https://sites.google.com/site/abelbrodeur/home) [LP Beland,](https://www.lpbeland.com/)) and Derek Mikola.  
+[Pre-Analysis Plans](https://osf.io/7gujs/)  
+[IZA Discussion Paper](http://ftp.iza.org/dp13254.pdf)  
