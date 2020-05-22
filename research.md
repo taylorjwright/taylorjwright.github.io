@@ -15,8 +15,11 @@ sidebar_sort_order: 2
 ### Works in Progress
 "Does Conflict Fuel Racial Prejudice? Evidence from the Iraq War" (with [Abel Brodeur](https://sites.google.com/site/abelbrodeur/home), and [Ruben Durante](https://www.rubendurante.net/))  
 
-"The Short-Term Effect of COVID-19 on Employment and Wages" (with [Abel Brodeur](https://sites.google.com/site/abelbrodeur/home) and [LP Beland](https://www.lpbeland.com/))  
+"COVID-19, Stay-At-Home Orders and Employment: Evidence from CPS Data"
+(with [Abel Brodeur](https://sites.google.com/site/abelbrodeur/home) and [LP Beland](https://www.lpbeland.com/))  
 [Pre-Analysis Plans](https://osf.io/c28t5/)  
+[IZA Discussion Paper](http://ftp.iza.org/dp13282.pdf)
+(Previously circulated as "The Short-Term Economic Consequences of COVID-19: Exposure to Disease, Remote Work and Government Response")
 [IZA Discussion Paper](http://ftp.iza.org/dp13159.pdf)  
 
 "On the Effects of COVID-19 Safer-At-Home Policies on Social Distancing, Car Crashes and Pollution" (with [Abel Brodeur](https://sites.google.com/site/abelbrodeur/home), and [Nikolai Cook](https://sites.google.com/site/nikolaimcook/))  
