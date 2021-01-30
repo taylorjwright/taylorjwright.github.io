@@ -14,7 +14,7 @@ sidebar_sort_order: 2
 
 ### Working Papers
 "On the Effects of COVID-19 Safer-At-Home Policies on Social Distancing, Car Crashes and Pollution" (with [Abel Brodeur](https://sites.google.com/site/abelbrodeur/home), and [Nikolai Cook](https://sites.google.com/site/nikolaimcook/))  
-Revise and Resubmit, Journal of Environmental Economics and Management.  
+Forthcoming, Journal of Environmental Economics and Management.  
 [IZA Discussion Paper](http://ftp.iza.org/dp13255.pdf)  
 
 "The Short-Term Economic Consequences of COVID-19: Occupation Tasks and Mental Health in Canada" (with [Abel Brodeur](https://sites.google.com/site/abelbrodeur/home), [Louis-Philippe Beland](https://www.lpbeland.com/), and Derek Mikola)  
