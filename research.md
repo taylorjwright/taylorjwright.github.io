@@ -7,16 +7,17 @@ sidebar_sort_order: 2
 ---
 
 ### Publications
+["On the Effects of COVID-19 Safer-At-Home Policies on Social Distancing, Car Crashes and Pollution"](https://www.sciencedirect.com/science/article/pii/S0095069621000103) (with [Abel Brodeur](https://sites.google.com/site/abelbrodeur/home), and [Nikolai Cook](https://sites.google.com/site/nikolaimcook/))  
+Forthcoming, Journal of Environmental Economics and Management.  
+[Preprint]({{ sit.url}}/assets/Brodeur_Cook_Wright.pdf)
+[IZA Discussion Paper](http://ftp.iza.org/dp13255.pdf)  
+
 ["Terrorism, immigration and asylum approval"](https://www.sciencedirect.com/science/article/pii/S0167268119303099) (with [Abel Brodeur](https://sites.google.com/site/abelbrodeur/home))  
 2019\. Journal of Economic Behavior & Organization, December, 168:119-131.  
 [Preprint]({{ site.url }}/assets/Brodeur_Wright.pdf)  
 [IZA Discussion Paper](http://ftp.iza.org/dp12635.pdf)
 
 ### Working Papers
-"On the Effects of COVID-19 Safer-At-Home Policies on Social Distancing, Car Crashes and Pollution" (with [Abel Brodeur](https://sites.google.com/site/abelbrodeur/home), and [Nikolai Cook](https://sites.google.com/site/nikolaimcook/))  
-Forthcoming, Journal of Environmental Economics and Management.  
-[IZA Discussion Paper](http://ftp.iza.org/dp13255.pdf)  
-
 "The Short-Term Economic Consequences of COVID-19: Occupation Tasks and Mental Health in Canada" (with [Abel Brodeur](https://sites.google.com/site/abelbrodeur/home), [Louis-Philippe Beland](https://www.lpbeland.com/), and Derek Mikola)  
 Revise and Resubmit, Canadian Journal of Economics.  
 [Pre-Analysis Plans](https://osf.io/7gujs/)  
