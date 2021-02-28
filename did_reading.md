@@ -20,7 +20,7 @@ If you're anything like me then you've got a folder with a bunch of these papers
 [And I've set up a Slack for planning and developing the reading list and schedule](https://join.slack.com/t/didreadinggroup/shared_invite/zt-n72wc6e8-~5vrAKiuMj32Sn1czaTJPg)
 
 
-###Other Resources
+### Other Resources
 Christine Cai has an awesome resource that we'll likely be using heavily to decide which papers to cover: [https://christinecai.github.io/PublicGoods/applied_micro_methods.pdf](https://christinecai.github.io/PublicGoods/applied_micro_methods.pdf)
 
 Chloe East has a similar series of virtual brownbags that you should also check out: [https://www.chloeneast.com/metrics-discussions.html](https://www.chloeneast.com/metrics-discussions.html)
