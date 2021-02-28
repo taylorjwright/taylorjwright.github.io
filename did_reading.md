@@ -21,9 +21,9 @@ If you're anything like me then you've got a folder with a bunch of these papers
 
 
 ###Other Resources
-Christine Cai has an awesome resource that we'll likely be using heavily to decide which papers to cover: https://christinecai.github.io/PublicGoods/applied_micro_methods.pdf
+Christine Cai has an awesome resource that we'll likely be using heavily to decide which papers to cover: [https://christinecai.github.io/PublicGoods/applied_micro_methods.pdf](https://christinecai.github.io/PublicGoods/applied_micro_methods.pdf)
 
-Chloe East has a similar series of virtual brownbags that you should also check out: https://www.chloeneast.com/metrics-discussions.html
+Chloe East has a similar series of virtual brownbags that you should also check out: [https://www.chloeneast.com/metrics-discussions.html](https://www.chloeneast.com/metrics-discussions.html)
 
 Here's a twitter thread that has slides form some of the authors of these papers, another great resource for presenters in the reading group!
 
