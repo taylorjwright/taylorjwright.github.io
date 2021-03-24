@@ -8,9 +8,9 @@ sidebar_sort_order: 4
 
 ### Schedule
 
-Andrew Goodman-Bacon ["Difference-in-Differences with Variation in Treatment Timing"](http://goodman-bacon.com/pdfs/ddtiming.pdf)
+Andrew Goodman-Bacon ["Difference-in-Differences with Variation in Treatment Timing"](http://goodman-bacon.com/pdfs/ddtiming.pdf)  
 **April 14 @ 3PM EST**  
-Jonathan Roth ["An Honest Approach to Parallel Trends” (joint work with Ashesh Rambachan)](https://jonathandroth.github.io/assets/files/HonestParallelTrends_Main.pdf)
+Jonathan Roth ["An Honest Approach to Parallel Trends” (joint work with Ashesh Rambachan)](https://jonathandroth.github.io/assets/files/HonestParallelTrends_Main.pdf)  
 **May 7 @ 3PM EST**  
 
 
@@ -18,7 +18,7 @@ Jonathan Roth ["An Honest Approach to Parallel Trends” (joint work with Ashesh
 
 Feel familiar?
 
-<blockquote class="twitter-tweet" data-partner="tweetdeck" width=“252”><p lang="en" dir="ltr">A rare photo of an applied economist keeping up with the difference-in-differences literature <a href="https://t.co/QWgC82WtD7">pic.twitter.com/QWgC82WtD7</a></p>&mdash; Maxim Ananyev (@maximananyev) <a href="https://twitter.com/maximananyev/status/1364080411471568902?ref_src=twsrc%5Etfw">February 23, 2021</a></blockquote>
+<blockquote class="twitter-tweet" data-partner="tweetdeck" width="252"><p lang="en" dir="ltr">A rare photo of an applied economist keeping up with the difference-in-differences literature <a href="https://t.co/QWgC82WtD7">pic.twitter.com/QWgC82WtD7</a></p>&mdash; Maxim Ananyev (@maximananyev) <a href="https://twitter.com/maximananyev/status/1364080411471568902?ref_src=twsrc%5Etfw">February 23, 2021</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 I'm working on putting together a spring/summer reading group beginning in April 2021 to dig into the many papers pushing forward difference-in-differences, two-way fixed-effects estimators, and event study research methods.
