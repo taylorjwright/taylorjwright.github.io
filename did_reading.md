@@ -6,18 +6,23 @@ sidebar_link: true
 sidebar_sort_order: 4
 ---
 
+### Schedule
+
+Andrew Goodman-Bacon ["Difference-in-Differences with Variation in Treatment Timing"](http://goodman-bacon.com/pdfs/ddtiming.pdf) April 14 @ 3PM EST  
+Jonathan Roth ["An Honest Approach to Parallel Trends” (joint work with Ashesh Rambachan)](https://jonathandroth.github.io/assets/files/HonestParallelTrends_Main.pdf) May 7 @ 3PM EST  
+
+
+
 <blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr">A rare photo of an applied economist keeping up with the difference-in-differences literature <a href="https://t.co/QWgC82WtD7">pic.twitter.com/QWgC82WtD7</a></p>&mdash; Maxim Ananyev (@maximananyev) <a href="https://twitter.com/maximananyev/status/1364080411471568902?ref_src=twsrc%5Etfw">February 23, 2021</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Feel familiar?
 
-I'm working on putting together a reading group during the 2021 summer (start options are April, May, or June) to dig into the many papers pushing forward difference-in-differences, two-way fixed-effects estimators, and event study research methods.
+I'm working on putting together a spring/summer reading group beginning in April 2021 to dig into the many papers pushing forward difference-in-differences, two-way fixed-effects estimators, and event study research methods.
 
 If you're anything like me then you've got a folder with a bunch of these papers in it but haven't gotten around to digging into them yet. Maybe you've been pointed to them (or have done the pointing) in referee reports. I figured that there was probably a bunch of people in the same boat and the idea of the reading group came about.
 
-[Here's a survey for anyone interested](https://docs.google.com/forms/d/e/1FAIpQLSc0zfWA-B2dd50SXOvHJ6GFuJXIlRLR6y3LVXMqxUDh1ZZj9w/viewform?usp=sf_link)
-
-[And I've set up a Slack for planning and developing the reading list and schedule](https://join.slack.com/t/didreadinggroup/shared_invite/zt-n72wc6e8-~5vrAKiuMj32Sn1czaTJPg)
+[I've set up a Slack for planning and developing the reading list and schedule.](https://join.slack.com/t/didreadinggroup/shared_invite/zt-n72wc6e8-~5vrAKiuMj32Sn1czaTJPg) Please email me to be added to the mailing list.
 
 
 ### Other Resources
