@@ -25,7 +25,7 @@ I'm working on putting together a spring/summer reading group beginning in April
 
 If you're anything like me then you've got a folder with a bunch of these papers in it but haven't gotten around to digging into them yet. Maybe you've been pointed to them (or have done the pointing) in referee reports. I figured that there was probably a bunch of people in the same boat and the idea of the reading group came about.
 
-[I've set up a Slack for planning and developing the reading list and schedule.](https://join.slack.com/t/didreadinggroup/shared_invite/zt-n72wc6e8-~5vrAKiuMj32Sn1czaTJPg) Please email me to be added to the mailing list.
+[I've set up a Slack for planning and developing the reading list and schedule.](https://join.slack.com/t/didreadinggroup/shared_invite/zt-om7731j4-mStg1euFLqKM0hFdFYnYsA) Please email me to be added to the mailing list.
 
 
 ### Other Resources
