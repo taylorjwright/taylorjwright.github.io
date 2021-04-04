@@ -10,10 +10,13 @@ sidebar_sort_order: 4
 
 Andrew Goodman-Bacon ["Difference-in-Differences with Variation in Treatment Timing"](http://goodman-bacon.com/pdfs/ddtiming.pdf)  
 **April 14 @ 3PM EST**  
+
 Jonathan Roth ["An Honest Approach to Parallel Trends” (joint work with Ashesh Rambachan)](https://jonathandroth.github.io/assets/files/HonestParallelTrends_Main.pdf)  
 **May 7 @ 3PM EST**  
+
 Yulya Truskinovsky ["Difference-in-Differences with Multiple Time Periods" by Brantly Callaway and Pedro H.C. Sant'Anna](https://pedrohcgs.github.io/files/Callaway_SantAnna_2020.pdf)  
 **TBD**  
+  
 Akash Issar ["Two-way fixed effects estimators with heterogeneous treatment effects" by Clément de Chaisemartin and Xavier D'Haultfoeuille](https://sites.google.com/site/clementdechaisemartin/two_way_FE.pdf)  
 **TBD**  
 

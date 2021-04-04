@@ -86,6 +86,17 @@ img{
   background: $body-bg;
   color: $body-color;
   padding: $section-spacing;
+
+  a {
+    color: $gray-6;
+    border-bottom: .1em solid #EF8354;
+    // background-color: ligthen(#EF8354, 50%);
+
+    &:hover {
+      filter: brightness(150%);
+      text-decoration: none;
+    }
+  }
 }
 
 
@@ -110,7 +121,7 @@ img{
           $section-spacing;
 
   h1, h2 {
-    color: inherit;
+    color: $heading-color;
 
     &:last-child {
       margin-bottom: 0;
