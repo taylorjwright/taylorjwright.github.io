@@ -9,7 +9,7 @@ sidebar_sort_order: 4
 ### Schedule
 
 Andrew Goodman-Bacon ["Difference-in-Differences with Variation in Treatment Timing"](http://goodman-bacon.com/pdfs/ddtiming.pdf)  
-**April 14 @ 3PM EST**
+**April 14 @ 3PM EST**  
 [Youtube](https://youtu.be/m1xSMNTKoMs) | [Slides](https://www.dropbox.com/s/1udnyk751ig5nlg/bacon_dd_timing_4_14_2021.pptx?dl=0)  
 
 Jonathan Roth ["An Honest Approach to Parallel Trends” (joint work with Ashesh Rambachan)](https://jonathandroth.github.io/assets/files/HonestParallelTrends_Main.pdf)  
