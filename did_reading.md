@@ -18,7 +18,10 @@ Pedro H.C. Sant'Anna ["Difference-in-Differences with Multiple Time Periods" (jo
 **May 14 @ 12PM EST**  
 
 Akash Issar ["Two-way fixed effects estimators with heterogeneous treatment effects" by Clément de Chaisemartin and Xavier D'Haultfoeuille](https://sites.google.com/site/clementdechaisemartin/two_way_FE.pdf)  
-**TBD**  
+**June 4 @ 3PM EST**  
+
+Kyle Butts ["Differences-in-Differences with Spatial Spillover"](https://kylebutts.com/files/Spillover.pdf) 
+**June 18 @ 3PM EST**  
 
 
 ### Information
