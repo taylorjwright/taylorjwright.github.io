@@ -9,18 +9,21 @@ sidebar_sort_order: 4
 ### Schedule
 
 Andrew Goodman-Bacon ["Difference-in-Differences with Variation in Treatment Timing"](http://goodman-bacon.com/pdfs/ddtiming.pdf)  
-**April 14 @ 3PM EST**  
+**April 14 @ 3PM EST**
+[Youtube](https://youtu.be/m1xSMNTKoMs) | [Slides](https://www.dropbox.com/s/1udnyk751ig5nlg/bacon_dd_timing_4_14_2021.pptx?dl=0)  
 
 Jonathan Roth ["An Honest Approach to Parallel Trends” (joint work with Ashesh Rambachan)](https://jonathandroth.github.io/assets/files/HonestParallelTrends_Main.pdf)  
 **May 7 @ 3PM EST**  
+[Youtube](https://www.youtube.com/watch?v=F8C1xaPoRvM) | [Slides](https://www.dropbox.com/s/dj9is94cxmby5rp/slides_Ottawa_reading_group_20210507.pdf?dl=0)  
 
 Pedro H.C. Sant'Anna ["Difference-in-Differences with Multiple Time Periods" (joint with Brantly Callaway)](https://pedrohcgs.github.io/files/Callaway_SantAnna_2020.pdf)  
 **May 14 @ 12PM EST**  
+[Youtube](https://youtu.be/VLviaylakAo) | [Slides](https://pedrohcgs.github.io/files/Callaway_SantAnna_2020_slides.pdf)  
 
 Akash Issar ["Two-way fixed effects estimators with heterogeneous treatment effects" by Clément de Chaisemartin and Xavier D'Haultfoeuille](https://sites.google.com/site/clementdechaisemartin/two_way_FE.pdf)  
 **June 4 @ 3PM EST**  
 
-Kyle Butts ["Differences-in-Differences with Spatial Spillover"](https://kylebutts.com/files/Spillover.pdf) 
+Kyle Butts ["Differences-in-Differences with Spatial Spillover"](https://kylebutts.com/files/Spillover.pdf)  
 **June 18 @ 3PM EST**  
 
 
