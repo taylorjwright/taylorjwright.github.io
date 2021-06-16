@@ -22,12 +22,17 @@ Pedro H.C. Sant'Anna ["Difference-in-Differences with Multiple Time Periods" (wi
 
 Akash Issar ["Two-way fixed effects estimators with heterogeneous treatment effects" by Clément de Chaisemartin and Xavier D'Haultfoeuille](https://sites.google.com/site/clementdechaisemartin/two_way_FE.pdf)  
 **June 4 @ 3PM EST**  
+[Youtube](https://youtu.be/xA8dmXfucoE) | [Slides](https://www.dropbox.com/s/zd3sh9yu9258m0p/Two_Way_Fixed_Effects_With_Heterogeneous_Treatment_Effects.pdf?dl=0)  
 
 Kirill Borusyak ["Revisiting Event Study Designs:Robust and Efficient Estimation" (with Xavier Jaravel and Jann Spiess)](https://www.google.com/url?q=https%3A%2F%2Fwww.dropbox.com%2Fs%2Fy92mmyndlbkufo1%2FDraft_RobustAndEfficient.pdf%3Fraw%3D1&sa=D&sntz=1&usg=AFQjCNGGDRt4xPz3hCXhTWxchHJWh-1m_Q)  
 **June 11 @ 12PM EST**  
+[Youtube](https://www.youtube.com/watch?v=rdfTxWnudt4) | [Slides](https://www.dropbox.com/s/wxthuvq7w44ouw5/Robust%20and%20efficient%20slides.pdf?dl=0)  
 
 Kyle Butts ["Differences-in-Differences with Spatial Spillover"](https://kylebutts.com/files/Spillover.pdf)  
 **June 25 @ 3PM EST**  
+
+John Gardner ["Two-stage differences in differences"](https://jrgcmu.github.io/2sdd_current.pdf)  
+**July 9 @ 3PM EST**  
 
 
 ### Information
