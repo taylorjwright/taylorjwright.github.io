@@ -13,7 +13,7 @@ Forthcoming, Canadian Journal of Economics.
 
 [**On the Effects of COVID-19 Safer-At-Home Policies on Social Distancing, Car Crashes and Pollution**](https://www.sciencedirect.com/science/article/pii/S0095069621000103) (with Abel Brodeur, and Nikolai Cook)  
 2021\. Journal of Environmental Economics and Management, March, 106:102427.  
-[Corrigendum]({{site.url}}/assets/JEEM_Corrigendum.pdf)
+[Corrigendum]({{site.url}}/assets/JEEM_Corrigendum.pdf)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Preprint]({{ sit.url}}/assets/Brodeur_Cook_Wright.pdf)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [IZA Discussion Paper](http://ftp.iza.org/dp13255.pdf)  
 
