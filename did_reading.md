@@ -46,6 +46,7 @@ John Gardner
 Brantly Callaway  
 ["Difference-in-Differences with a Continuous Treatment" (with Andrew Goodman-Bacon and Pedro H.C. Sant’Anna)](https://arxiv.org/abs/2107.02637)  
 **August 6 @ 3PM EST**  
+[Youtube](https://youtu.be/mbEJuCFCgXo)  
 
 Clément de Chaisemartin  
 ["Two-way Fixed Effects Regressions with Several Treatments" (with Xavier D'Haultfoeuille)](https://sites.google.com/site/clementdechaisemartin/Notemultipletreatments.pdf?attredirects=0&d=1)  
