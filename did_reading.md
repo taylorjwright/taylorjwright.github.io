@@ -51,6 +51,7 @@ Brantly Callaway
 Clément de Chaisemartin  
 ["Two-way Fixed Effects Regressions with Several Treatments" (with Xavier D'Haultfoeuille)](https://sites.google.com/site/clementdechaisemartin/Notemultipletreatments.pdf?attredirects=0&d=1)  
 **September 3 @ 12PM EST**  
+[Youtube](https://youtu.be/UHeJoc27qEM) | [Slides](https://www.dropbox.com/s/7b4gk16fdm6jyq4/dechaisemartin_multiple.pdf?dl=0)  
 
 ### Information
 
