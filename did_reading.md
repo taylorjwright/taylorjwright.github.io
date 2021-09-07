@@ -49,7 +49,7 @@ Brantly Callaway
 [Youtube](https://youtu.be/mbEJuCFCgXo) | [Slides](https://bcallaway11.github.io/files/DID-Continuous-Treatment/slides/did_reading_group.html#1)  
 
 Clément de Chaisemartin  
-["Two-way Fixed Effects Regressions with Several Treatments" (with Xavier D'Haultfoeuille)](https://sites.google.com/site/clementdechaisemartin/Notemultipletreatments.pdf?attredirects=0&d=1)  
+["Two-way Fixed Effects Regressions with Several Treatments" (with Xavier D'Haultfoeuille)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3751060)  
 **September 3 @ 12PM EST**  
 [Youtube](https://youtu.be/UHeJoc27qEM) | [Slides](https://www.dropbox.com/s/7b4gk16fdm6jyq4/dechaisemartin_multiple.pdf?dl=0)  
 
