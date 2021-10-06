@@ -5,6 +5,9 @@ permalink: /research/
 sidebar_link: true
 sidebar_sort_order: 2
 ---
+### Job Market Paper  
+**Policing for whom? Officer-involved shootings and police legitimacy in Chicago**  
+
 
 ### Publications
 [**The Short-Term Economic Consequences of COVID-19: Occupation Tasks and Mental Health in Canada**](http://ftp.iza.org/dp13254.pdf) (with Abel Brodeur, Louis-Philippe Beland, and Derek Mikola)  

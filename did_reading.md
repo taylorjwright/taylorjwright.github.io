@@ -3,7 +3,7 @@ layout: page
 title: DiD Reading Group
 permalink: /did-reading-group/
 sidebar_link: true
-sidebar_sort_order: 4
+sidebar_sort_order: 5
 ---
 
 ### Schedule
