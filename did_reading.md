@@ -6,13 +6,13 @@ sidebar_link: true
 sidebar_sort_order: 5
 ---
 ### Information
-Recently, it seems like babrely a week goes by before there's a new paper on difference-in-differences, two-way fixed-effects estimators, and event study research methods. If you’re anything like me then you’ve got a folder with a bunch of these papers in it but haven’t gotten around to digging into them yet. Maybe you’ve been pointed to them (or have done the pointing) in referee reports. 
+Recently, it seems like barely a week goes by before there's a new paper on difference-in-differences, two-way fixed-effects estimators, and event study research methods. If you’re anything like me then you’ve got a folder with a bunch of these papers in it but haven’t gotten around to digging into them yet. Maybe you’ve been pointed to them (or have done the pointing) in referee reports. 
 
 I figured that there was probably a bunch of people in the same boat (try over 550 in the Slack alone) and so in spring 2021, I organized reading group to dig into this new literature. Many authors of these papers graciously agreed to present, with an eye towards the more applied audience of the reading group. The meetings were recorded and are available on Youtube. After the sessions I would try to work through some simple examples of implementation in `R` or `Stata`, the example code is available on Github. 
 
-[Slack](https://join.slack.com/t/didreadinggroup/shared_invite/zt-om7731j4-mStg1euFLqKM0hFdFYnYsA) 
-[Github repo with examples and code](https://join.slack.com/t/didreadinggroup/shared_invite/zt-om7731j4-mStg1euFLqKM0hFdFYnYsA)
-[Youtube Playlist](https://join.slack.com/t/didreadinggroup/shared_invite/zt-om7731j4-mStg1euFLqKM0hFdFYnYsA)
+[Slack](https://join.slack.com/t/didreadinggroup/shared_invite/zt-om7731j4-mStg1euFLqKM0hFdFYnYsA)  
+[Github repo with examples and code](https://join.slack.com/t/didreadinggroup/shared_invite/zt-om7731j4-mStg1euFLqKM0hFdFYnYsA)  
+[Youtube Playlist](https://join.slack.com/t/didreadinggroup/shared_invite/zt-om7731j4-mStg1euFLqKM0hFdFYnYsA)  
 
 
 ### Schedule
