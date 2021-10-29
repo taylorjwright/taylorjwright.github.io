@@ -5,6 +5,15 @@ permalink: /did-reading-group/
 sidebar_link: true
 sidebar_sort_order: 5
 ---
+### Information
+Recently, it seems like babrely a week goes by before there's a new paper on difference-in-differences, two-way fixed-effects estimators, and event study research methods. If you’re anything like me then you’ve got a folder with a bunch of these papers in it but haven’t gotten around to digging into them yet. Maybe you’ve been pointed to them (or have done the pointing) in referee reports. 
+
+I figured that there was probably a bunch of people in the same boat (try over 550 in the Slack alone) and so in spring 2021, I organized reading group to dig into this new literature. Many authors of these papers graciously agreed to present, with an eye towards the more applied audience of the reading group. The meetings were recorded and are available on Youtube. After the sessions I would try to work through some simple examples of implementation in `R` or `Stata`, the example code is available on Github. 
+
+[Slack](https://join.slack.com/t/didreadinggroup/shared_invite/zt-om7731j4-mStg1euFLqKM0hFdFYnYsA) 
+[Github repo with examples and code](https://join.slack.com/t/didreadinggroup/shared_invite/zt-om7731j4-mStg1euFLqKM0hFdFYnYsA)
+[Youtube Playlist](https://join.slack.com/t/didreadinggroup/shared_invite/zt-om7731j4-mStg1euFLqKM0hFdFYnYsA)
+
 
 ### Schedule
 
@@ -53,18 +62,7 @@ Clément de Chaisemartin
 **September 3 @ 12PM EST**  
 [Youtube](https://youtu.be/UHeJoc27qEM) | [Slides](https://www.dropbox.com/s/7b4gk16fdm6jyq4/dechaisemartin_multiple.pdf?dl=0)  
 
-### Information
 
-Feel familiar?
-
-<blockquote class="twitter-tweet" data-partner="tweetdeck" width="252"><p lang="en" dir="ltr">A rare photo of an applied economist keeping up with the difference-in-differences literature <a href="https://t.co/QWgC82WtD7">pic.twitter.com/QWgC82WtD7</a></p>&mdash; Maxim Ananyev (@maximananyev) <a href="https://twitter.com/maximananyev/status/1364080411471568902?ref_src=twsrc%5Etfw">February 23, 2021</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-I'm working on putting together a spring/summer reading group beginning in April 2021 to dig into the many papers pushing forward difference-in-differences, two-way fixed-effects estimators, and event study research methods.
-
-If you're anything like me then you've got a folder with a bunch of these papers in it but haven't gotten around to digging into them yet. Maybe you've been pointed to them (or have done the pointing) in referee reports. I figured that there was probably a bunch of people in the same boat and the idea of the reading group came about.
-
-[I've set up a Slack for planning and developing the reading list and schedule.](https://join.slack.com/t/didreadinggroup/shared_invite/zt-om7731j4-mStg1euFLqKM0hFdFYnYsA) Please email me to be added to the mailing list.
 
 
 ### Other Resources
