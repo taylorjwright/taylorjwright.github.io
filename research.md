@@ -6,7 +6,7 @@ sidebar_link: true
 sidebar_sort_order: 2
 ---
 ### Job Market Paper  
-**Policing for whom? Officer-involved shootings and police legitimacy in Chicago**  
+[**Policing for whom? Officer-involved shootings and police legitimacy in Chicago**]({{site.url}}/assets/wright_jmp.pdf)
 
 
 ### Publications
