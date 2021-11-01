@@ -12,8 +12,7 @@ I figured that there was probably a bunch of people in the same boat (try over 5
 
 [Slack](https://join.slack.com/t/didreadinggroup/shared_invite/zt-om7731j4-mStg1euFLqKM0hFdFYnYsA)  
 [Github repo with examples and code](https://join.slack.com/t/didreadinggroup/shared_invite/zt-om7731j4-mStg1euFLqKM0hFdFYnYsA)  
-[Youtube Playlist](https://join.slack.com/t/didreadinggroup/shared_invite/zt-om7731j4-mStg1euFLqKM0hFdFYnYsA)  
-
+[Youtube Playlist](https://www.youtube.com/playlist?list=PLVObvb_htcuBt8mV9yNagt7hK9FL5KXeE)  
 
 ### Schedule
 

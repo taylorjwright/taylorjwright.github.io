@@ -5,7 +5,7 @@ highlighter:      rouge
 # Setup
 title:            Taylor Wright
 tagline:          'Taylor Wright'
-description:      'Economics PhD candidate at the University of Ottawa. I research political economy, public economics, and law and economics.'
+description:      'Economics PhD candidate at the University of Ottawa. I research law, health, and public economics.'
 url:              https://taylorjwright.github.io
 baseurl:          #'/blog'
                   # the optional subpath of your site, e.g. "/blog"
