@@ -29,10 +29,6 @@ Forthcoming, *Canadian Journal of Economics*.
 [**The Short-Term Economic Consequences of COVID-19: Exposure to Disease, Essential Workers and Remote Work**](http://ftp.iza.org/dp13159.pdf) (with Abel Brodeur and Louis-Philippe Beland)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Pre-Analysis Plans](https://osf.io/c28t5/)  
 
-[**A Cost-Benefit Analysis of COVID-19 Lockdowns**](http://ftp.iza.org/dp13282.pdf) (with Abel Brodeur and Louis-Philippe Beland)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Pre-Analysis Plans](https://osf.io/c28t5/)  
-
-
 ### Works in Progress
 **Does Conflict Fuel Racial Prejudice? Evidence from the Iraq War** (with Abel Brodeur and Ruben Durante)  
 **Traffic Congestion and Asylum Approval** (with Louis-Philippe Beland, Danny Brent, and Abel Brodeur)  
