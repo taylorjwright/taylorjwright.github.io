@@ -25,12 +25,14 @@ Forthcoming, *Canadian Journal of Economics*.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Preprint]({{ site.url }}/assets/Brodeur_Wright.pdf)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [IZA Discussion Paper](http://ftp.iza.org/dp12635.pdf)  
 
-### Working Papers
+### Working Paper
 [**The Short-Term Economic Consequences of COVID-19: Exposure to Disease, Essential Workers and Remote Work**](http://ftp.iza.org/dp13159.pdf) (with Abel Brodeur and Louis-Philippe Beland)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Pre-Analysis Plans](https://osf.io/c28t5/)  
 
 ### Works in Progress
 **Does Conflict Fuel Racial Prejudice? Evidence from the Iraq War** (with Abel Brodeur and Ruben Durante)  
+
 **Traffic Congestion and Asylum Approval** (with Louis-Philippe Beland, Danny Brent, and Abel Brodeur)  
+
 **Language Matters: Lexipol, Police Policy Manuals, and Police Use of Force** (with Jamein Cunningham and Rob Gillezeau)  
 
