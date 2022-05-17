@@ -5,8 +5,7 @@ permalink: /research/
 sidebar_link: true
 sidebar_sort_order: 2
 ---
-### Job Market Paper  
-[**Policing for whom? Officer-involved shootings and police legitimacy in Chicago**]({{site.url}}/assets/wright_jmp.pdf)
+
 
 
 ### Publications
@@ -26,7 +25,10 @@ Forthcoming, *Canadian Journal of Economics*.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [IZA Discussion Paper](http://ftp.iza.org/dp12635.pdf)  
 
 ### Working Paper
+[**Policing for whom? Officer-involved shootings and police legitimacy in Chicago**]({{site.url}}/assets/wright_jmp.pdf)  
+
 [**The Short-Term Economic Consequences of COVID-19: Exposure to Disease, Essential Workers and Remote Work**](http://ftp.iza.org/dp13159.pdf) (with Abel Brodeur and Louis-Philippe Beland)  
+Revise & Resubmit, *PLOS ONE*.   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Pre-Analysis Plans](https://osf.io/c28t5/)  
 
 ### Works in Progress
