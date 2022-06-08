@@ -36,5 +36,3 @@ Revise & Resubmit, *PLOS ONE*.
 
 **Traffic Congestion and Asylum Approval** (with Louis-Philippe Beland, Danny Brent, and Abel Brodeur)  
 
-**Language Matters: Lexipol, Police Policy Manuals, and Police Use of Force** (with Jamein Cunningham and Rob Gillezeau)  
-
