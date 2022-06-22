@@ -5,7 +5,7 @@ highlighter:      rouge
 # Setup
 title:            Taylor Wright
 tagline:          'Taylor Wright'
-description:      'Economics PhD candidate at the University of Ottawa. I research law, health, and public economics.'
+description:      'Assistant Professor of Economics at Brock University. I research law, health, and public economics.'
 url:              https://taylorjwright.github.io
 baseurl:          #'/blog'
                   # the optional subpath of your site, e.g. "/blog"
@@ -16,7 +16,7 @@ baseurl:          #'/blog'
 
 author:          Taylor Wright
 name:           'Taylor Wright'
-email:          taylorjohn.wright@gmail.com
+email:          twright3@brocku.ca
 
 
 paginate:         5
