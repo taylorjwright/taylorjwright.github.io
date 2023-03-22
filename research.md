@@ -10,11 +10,11 @@ sidebar_sort_order: 2
 ### Publications
 [**The Short-Term Economic Consequences of COVID-19: Exposure to Disease, Essential Workers and Remote Work**](https://doi.org/10.1371/journal.pone.0270341) (with Abel Brodeur and Louis-Philippe Beland)
 2023\. *PLoS ONE* 18(3): e0270341.
-[ [Pre-Analysis Plans](https://osf.io/c28t5/) &nbsp; [ [IZA Discussion Paper](http://ftp.iza.org/dp13159.pdf) ]]
+[ [Pre-Analysis Plans](https://osf.io/c28t5/) ] &nbsp; [ [IZA Discussion Paper](http://ftp.iza.org/dp13159.pdf) ] [ [Code](https://osf.io/c28t5/) ]
 
 [**The Short-Term Economic Consequences of COVID-19: Occupation Tasks and Mental Health in Canada**](https://doi.org/10.1111/caje.12543) (with Abel Brodeur, Louis-Philippe Beland, and Derek Mikola)
 2022\. *Canadian Journal of Economics*, March, 55: 214-247.
-[ [Pre-Analysis Plans](https://osf.io/7gujs/) ] &nbsp; [ [IZA Discussion Paper](http://ftp.iza.org/dp13254.pdf) ]
+[ [Pre-Analysis Plans](https://osf.io/7gujs/) ] &nbsp; [ [IZA Discussion Paper](http://ftp.iza.org/dp13254.pdf) ] [ [Code](https://doi.org/10.5683/SP3/M4H6WC) ]
 
 [**On the Effects of COVID-19 Safer-At-Home Policies on Social Distancing, Car Crashes and Pollution**](https://www.sciencedirect.com/science/article/pii/S0095069621000103) (with Abel Brodeur and Nikolai Cook)
 2021\. *Journal of Environmental Economics and Management*, March, 106:102427.
