@@ -7,8 +7,11 @@ sidebar_sort_order: 2
 ---
 
 
-
 ### Publications
+[**The Short-Term Economic Consequences of COVID-19: Exposure to Disease, Essential Workers and Remote Work**](https://doi.org/10.1371/journal.pone.0270341) (with Abel Brodeur and Louis-Philippe Beland)
+2023\. *PLoS ONE* 18(3): e0270341.
+[ [Pre-Analysis Plans](https://osf.io/c28t5/) &nbsp; [ [IZA Discussion Paper](http://ftp.iza.org/dp13159.pdf) ]]
+
 [**The Short-Term Economic Consequences of COVID-19: Occupation Tasks and Mental Health in Canada**](https://doi.org/10.1111/caje.12543) (with Abel Brodeur, Louis-Philippe Beland, and Derek Mikola)
 2022\. *Canadian Journal of Economics*, March, 55: 214-247.
 [ [Pre-Analysis Plans](https://osf.io/7gujs/) ] &nbsp; [ [IZA Discussion Paper](http://ftp.iza.org/dp13254.pdf) ]
@@ -26,11 +29,7 @@ sidebar_sort_order: 2
 
 [**Policing for whom? Officer-involved shootings and police legitimacy in Chicago**]({{site.url}}/assets/wright_jmp.pdf)
 
-[**The Short-Term Economic Consequences of COVID-19: Exposure to Disease, Essential Workers and Remote Work**](http://ftp.iza.org/dp13159.pdf) (with Abel Brodeur and Louis-Philippe Beland)
-Forthcoming, *PLOS ONE*.
-[ [Pre-Analysis Plans](https://osf.io/c28t5/) ]
-
 ### Works in Progress
 **Does Conflict Fuel Racial Prejudice? Evidence from the Iraq War** (with Abel Brodeur and Ruben Durante)
 
-**Traffic Congestion and Asylum Approval** (with Louis-Philippe Beland, Danny Brent, and Abel Brodeur)
+**Men in Times of Crisis** (with Joanne Haddad and Lamis Kattan)
