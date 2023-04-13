@@ -3,7 +3,7 @@ layout: post
 title: "Should you publish during your PhD?"
 categories:
   - Post
-last_modified_at: 2023-03-31
+last_modified_at: 2023-04-13
 ---
 
 Below is some advice I wrote as a contribution to the "Thriving in Economics" e-book series which you can find here: <https://econ4ua.org/thriving-in-economics/>. There are three books aimed at aspiring PhDs, current PhDs, and assistant professors (and beyond) chock-full of advice written by many economists with a variety of paths and viewpoints. You can buy a copy of these books for yourself, for others, or even sponsor a copy for someone else! All proceeds go towards humanitarian aid in Ukraine.
