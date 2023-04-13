@@ -15,27 +15,32 @@ layout: default
       </a>
     </h2>
     {% include post-meta.html post=post %}
-    <img src="{{ site.baseurl }}/{{ post.img }}" height="75%" width="75%">
+    <!-- <img src="{{ site.baseurl }}/{{ post.img }}" height="75%" width="75%"> -->
+    {% if post.content contains "<!-- begin_excerpt -->" %}
+      {{ post.content | split: "<!-- end_excerpt -->" | first | split: "<!-- begin_excerpt -->" | last }}
+    {% else %}
+      {{ post.excerpt }}
+    {% endif %}
 
-    {% if post.excerpt %}
+    <!-- {% if post.excerpt %}
       {{ post.excerpt }}
     {% else %}
       {{ post.content }}
-    {% endif %}
+    {% endif %} -->
 
-    {% if post.excerpt %}
+    <!-- {% if post.excerpt %}
       {% comment %}Excerpt may be equal to content. Check.{% endcomment %}
       {% capture content_words %}
         {{ post.content | number_of_words }}
       {% endcapture %}
       {% capture excerpt_words %}
         {{ post.excerpt | number_of_words }}
-      {% endcapture %}
+      {% endcapture %} -->
 
-      {% if content_words != excerpt_words %}
-        <a href="{{ site.baseurl }}{{ post.url }}">Would You Like to Know More&#63;</a>
-      {% endif %}
-    {% endif %}
+      <!-- {% if content_words != excerpt_words %} -->
+        <!-- <a href="{{ site.baseurl }}{{ post.url }}">Read post</a> -->
+      <!-- {% endif %} -->
+    <!-- {% endif %} -->
   </article>
   {% endfor %}
 
