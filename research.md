@@ -8,6 +8,9 @@ sidebar_sort_order: 2
 
 
 ### Publications
+[**Replication of "How Much Does Immigration Boost Innovation?"**](https://www.econstor.eu/bitstream/10419/265508/1/I4R-DP004.pdf) \
+*Accepted, Economic Inquiry*
+
 [**The Short-Term Economic Consequences of COVID-19: Exposure to Disease, Essential Workers and Remote Work**](https://doi.org/10.1371/journal.pone.0270341) (with Abel Brodeur and Louis-Philippe Beland)
 2023\. *PLoS ONE* 18(3): e0270341. \
  [ [Pre-Analysis Plans](https://osf.io/c28t5/) ] &nbsp; [ [IZA Discussion Paper](http://ftp.iza.org/dp13159.pdf) ] &nbsp; [ [Code](https://osf.io/c28t5/) ]
@@ -25,12 +28,16 @@ sidebar_sort_order: 2
 [ [Preprint]({{ site.url }}/assets/Brodeur_Wright.pdf) ] &nbsp; [ [IZA Discussion Paper](http://ftp.iza.org/dp12635.pdf) ] &nbsp; [ [Code](https://github.com/taylorjwright/terrorism_immigration_asylum) ]
 
 ### Working Papers
-[**Replication of "How Much Does Immigration Boost Innovation?"**](https://www.econstor.eu/bitstream/10419/265508/1/I4R-DP004.pdf) \
-*Revise & Resubmit, Economic Inquiry*
-
 [**Policing for whom? Officer-involved shootings and police legitimacy in Chicago**]({{site.url}}/assets/wright_jmp.pdf)
 
+[**Mass Reproducibility and Replicability: A New Hope**](https://www.econstor.eu/bitstream/10419/289437/1/I4R-DP107.pdf) (with Brodeur et al., see full list of authors on pages 2-3)
+
 ### Works in Progress
+**Statistical Significance and Science Mobilization: Evidence from 10,404 Hypotheses in Leading Health Journals** (with Abel Brodeur, Nikolai Cook, and Anthony Heyes) \
+[ [Video Presentation](https://www.youtube.com/watch?v=TkG2mOSrFGk) ]
+
 **Does Conflict Fuel Racial Prejudice? Evidence from the Iraq War** (with Abel Brodeur and Ruben Durante)
 
 **Men in Times of Crisis** (with Joanne Haddad and Lamis Kattan)
+
+**Stay Frosty: Climate Change and Gun Violence in North America** (with Nikolai Cook)
