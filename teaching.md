@@ -8,7 +8,7 @@ sidebar_sort_order: 3
 ### Lecturer
 **Brock University** \
 **2024 -** \
-Economics of Crime \
+ECON34P41 - Economics of Crime [[Syllabus]({{ sit.url}}/assets/econ_3p41_syllabus.pdf)] \
 **2022 -** \
 ECON2P35 - Pandemic Economics [[Syllabus]({{ sit.url}}/assets/econ_2p35_syllabus.pdf)] \
 ECON2P91 - Business Econometrics with Applications [[Syllabus]({{ sit.url}}/assets/econ_2p91_syllabus.pdf)]
